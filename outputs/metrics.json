@@ -1,0 +1,11 @@
+{
+  "best_model": "Gradient Boosting",
+  "cv_r2": {
+    "Linear Regression": 0.9247588567870594,
+    "Random Forest": 0.9612877415010039,
+    "Gradient Boosting": 0.9645574460401182
+  },
+  "test_r2": 0.9686,
+  "test_rmse": 528782.0,
+  "test_mae": 383278.0
+}
